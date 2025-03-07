@@ -1,4 +1,4 @@
-<p align="left">Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en el Instituto Amparo Sanz. Me encanta programar y aprender nuevas tecnologías, especialmente en el mundo del desarrollo web.</p>
+<p align="left">Hola! Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en el Instituto Amparo Sanz. Me encanta programar y aprender nuevas tecnologías, especialmente en el mundo del desarrollo web.</p>
 
 ###
 
