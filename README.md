@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Tecnologías con las que tengo experiencia básica pero sigo mejorando:</h2>
+<h2 align="left">Tecnologías con las que tengo experiencia más básica pero sigo mejorando:</h2>
 
 ###
 
